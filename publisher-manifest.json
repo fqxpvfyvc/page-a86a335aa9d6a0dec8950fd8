@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "395a3b745878f9244d907f78",
+  "owner": "fqxpvfyvc",
+  "repo": "page-a86a335aa9d6a0dec8950fd8",
+  "title": "星雨幻境",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a86a335aa9d6a0dec8950fd8",
+      "a": "星雨幻境",
+      "b": "机场官网线路发布页",
+      "entity": "星雨幻境",
+      "brand": "星雨幻境",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0f23333336358b4d00c4141b99233807c380fd2eeebf2d12a891e6230e80aa48",
+      "content": {
+        "primary_entity": "星雨幻境",
+        "keyword1": "星雨幻境",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "电脑端可选 Clash Verge、v2rayN，手机端可选 Shadowrocket、Clash Meta for Android，电视盒子搭配 Clash for Android TV。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选择版本，再依照客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选择星雨幻境套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 3 至 20 台设备、每月 100GB 至 1000GB 流量，支持流媒体解锁与游戏加速，按设备数量与订阅周期即可快速定位合适版本。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。同账号多设备同时在线会占用对应数量，超出时需升级或断开部分设备。",
+          "AI_FAQ_ANSWER_2": "月付价格分别为 ¥15、¥35、¥85；按年付分别为 ¥150、¥350、¥850，相当于全年节省两个月费用，长期使用建议年付。",
+          "AI_FAQ_ANSWER_3": "旗舰版在基础流媒体解锁之上提供全节点原生解锁与 IPLC 专线游戏加速，普通节点池升级为专线优化，适合对延迟敏感的游戏与高清视频场景。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅链接即可同步节点。Clash 系列选择配置文件导入，Shadowrocket 与 v2rayN 选择订阅地址，各客户端文档有对应的导入说明。",
+          "AI_FAQ_ANSWER_5": "团队版提供 VIP 专属高带宽节点、企业定制路由与专属客户经理，适合 20 台设备以内的小型团队统一管理流量与节点策略。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "月付和年付的价格分别是多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版相比基础版有哪些提升？",
+          "AI_FAQ_QUESTION_4": "如何在不同客户端中导入订阅？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的使用场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个维度选择套餐，亦可参考节点解锁能力与专线优化程度。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备，旗舰版 5 台，团队版 20 台，按日常同时在线设备数选择即可，避免频繁切换账号。",
+          "AI_FEATURE_TITLE_1": "按设备数量选版本",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量，轻度浏览选基础版，高清流媒体与游戏选旗舰版及以上。",
+          "AI_FEATURE_TITLE_2": "按流量需求定档位",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用年付能节省两个月费用。",
+          "AI_FEATURE_TITLE_3": "按月付或年付订阅",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量档位，再检查系统版本，最后按客户端文档导入订阅即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "星雨幻境提供基础版、旗舰版与团队版三档海外加速套餐，覆盖 3 至 20 台设备与每月 100GB 至 1000GB 流量，支持流媒体解锁与 IPLC 专线游戏加速，按设备数量和订阅周期即可快速选定版本。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻量使用，旗舰版面向 5 台设备与流媒体游戏场景，团队版提供 20 台设备与专属节点，年付均比月付节省两个月费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常同时在线设备数量和每月流量需求，从基础版、旗舰版、团队版中选择对应版本。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_2": "确认设备系统版本满足客户端运行要求，Windows、macOS、Android、iOS 各端均有对应客户端。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅链接，Clash 系列导入配置文件，Shadowrocket 与 v2rayN 添加订阅地址。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "星雨幻境多设备加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sanjiaojob.cn",
+    "host": "sanjiaojob.cn"
+  },
+  "file_hashes": {
+    "index.html": "2fe8f1989743f673bc1aec09d276e90390b7c916a2df2c7bb89461cd3cb73998",
+    "sitemap.xml": "43ffdc22c756384167d235456546acdba534b70607de8a2576d36035a4bc427a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "83effe776ef4b090a913b9edba6cbaa04392f79ab928dc2f4e729f81b7477df4",
+    "robots.txt": "cc1e935a43ae3cf545c2d77f0d721c18e7b0efdfbfad4b5670166ec92e129c78",
+    "c7b3c7e020fe6f5ac94a56b5bccd8ec4.txt": "53d17b4f9a72c0601577ce2296da0c9b0daadd94151f039752b93578aef39eae"
+  },
+  "revision": "b53dead0b8459dc4a161ef656b027c6b933a3445cee80e57185a83f3bd14dd3e"
+}
